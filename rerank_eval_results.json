@@ -1,0 +1,452 @@
+[
+  {
+    "question": "What natural-language request corresponds to the SQL query in the sql2text example from the UnifiedSKG benchmark?",
+    "gold_id": "2212.12017-188",
+    "vector_pos": 19,
+    "rerank_pos": 1,
+    "embed_ms": 688.3526000001439,
+    "search_ms": 821.4332999996259,
+    "rerank_ms": 443.84720000016387
+  },
+  {
+    "question": "For the machine-learning tasks tested, what range of critical batch sizes did the simple gradient noise scale predict to within an order of magnitude?",
+    "gold_id": "1812.06162-26",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 549.4902999998885,
+    "search_ms": 185.0109999995766,
+    "rerank_ms": 454.6509000010701
+  },
+  {
+    "question": "Why does the socialbot A/B testing evaluation discard scores from returning users?",
+    "gold_id": "1709.02349-95",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 736.6339000000153,
+    "search_ms": 288.31350000109524,
+    "rerank_ms": 406.4677999995183
+  },
+  {
+    "question": "For an LSTM recurrent neural network trained on text, what quantity do the authors propose measuring as a computationally efficient diagnostic of its potential for improvement?",
+    "gold_id": "1606.06737-40",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 394.6823000005679,
+    "search_ms": 159.96329999870795,
+    "rerank_ms": 429.5454000002792
+  },
+  {
+    "question": "What approximation factor do Lei et al.’s paraphrase-based adversarial attack authors prove for their greedy algorithm on CNN and RNN text classifiers?",
+    "gold_id": "1909.08072-96",
+    "vector_pos": 2,
+    "rerank_pos": 1,
+    "embed_ms": 568.8257000001613,
+    "search_ms": 166.6787000012846,
+    "rerank_ms": 474.9950000004901
+  },
+  {
+    "question": "How do control codes influence text generation when the prompt is identical?",
+    "gold_id": "1909.05858-21",
+    "vector_pos": null,
+    "rerank_pos": null,
+    "embed_ms": 507.2878999999375,
+    "search_ms": 193.79799999842362,
+    "rerank_ms": 610.5248000003485
+  },
+  {
+    "question": "How does the QT-Opt policy respond when an object is intentionally pushed out of the gripper during grasping?",
+    "gold_id": "1806.10293-28",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 390.7085000009829,
+    "search_ms": 131.0527000005095,
+    "rerank_ms": 436.56019999980344
+  },
+  {
+    "question": "How did the McAfee Advanced Threat Research team’s VirusTotal poisoning attack cause intrusion detection systems that ingest VirusTotal data to classify mutant files as a ransomware family?",
+    "gold_id": "2102.04351-12",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 367.1457999989798,
+    "search_ms": 146.15190000040457,
+    "rerank_ms": 439.1125000001921
+  },
+  {
+    "question": "What three qualities define an aligned AI assistant under Anthropic’s HHH alignment criteria?",
+    "gold_id": "2304.03277-15",
+    "vector_pos": 10,
+    "rerank_pos": 1,
+    "embed_ms": 470.2780999996321,
+    "search_ms": 109.8175999995874,
+    "rerank_ms": 1745.0084000010975
+  },
+  {
+    "question": "In Figure 8, how do the expected standard deviations in validation performance due to weight initialization (WI) and data order (DO) compare with each other and with the overall standard deviation?",
+    "gold_id": "2002.06305-40",
+    "vector_pos": 3,
+    "rerank_pos": 1,
+    "embed_ms": 421.0175000007439,
+    "search_ms": 154.33499999926426,
+    "rerank_ms": 410.22700000030454
+  },
+  {
+    "question": "In research on gender bias in NLP, which type of representation has received particular attention for uncovering, analyzing, and removing gender bias?",
+    "gold_id": "1911.03842-8",
+    "vector_pos": 2,
+    "rerank_pos": 1,
+    "embed_ms": 404.57940000123926,
+    "search_ms": 141.2387000000308,
+    "rerank_ms": 479.24590000002354
+  },
+  {
+    "question": "How many years passed between the establishment of the European Coal and Steel Community in 1951 and its becoming the EEC in 1958?",
+    "gold_id": "2205.10625-208",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 442.36780000028375,
+    "search_ms": 138.71419999850332,
+    "rerank_ms": 420.4840999991575
+  },
+  {
+    "question": "What temperature adjustment largely improved calibration across evaluation tasks for the helpful-and-harmless RLHF policies?",
+    "gold_id": "2207.05221-32",
+    "vector_pos": 2,
+    "rerank_pos": 1,
+    "embed_ms": 363.87330000070506,
+    "search_ms": 150.62749999924563,
+    "rerank_ms": 462.57949999926495
+  },
+  {
+    "question": "Which model, mBERT or XLM-R, achieved slightly better average performance on the evaluated data?",
+    "gold_id": "2210.13236-21",
+    "vector_pos": 3,
+    "rerank_pos": 1,
+    "embed_ms": 397.38000000033935,
+    "search_ms": 136.36469999983092,
+    "rerank_ms": 449.0719999994326
+  },
+  {
+    "question": "Which thread counts are compared in the 1-step Q and n-step Q Atari training plots?",
+    "gold_id": "1602.01783-39",
+    "vector_pos": 4,
+    "rerank_pos": 2,
+    "embed_ms": 1531.818999999814,
+    "search_ms": 209.03809999981604,
+    "rerank_ms": 418.2459999992716
+  },
+  {
+    "question": "In the described sequential language-model prompting procedure, how are subquestions that extend a previous question explicitly signaled to the model?",
+    "gold_id": "2209.15003-117",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 506.9466000004468,
+    "search_ms": 141.3580999997066,
+    "rerank_ms": 2472.5270999988425
+  },
+  {
+    "question": "How does the depth required for attention-based networks to implement \\(x^2\\) compare with that required for ReLU fully connected networks to approximate it to accuracy \\(\\varepsilon\\)?",
+    "gold_id": "2301.13196-70",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 478.1572000010783,
+    "search_ms": 131.83229999958712,
+    "rerank_ms": 408.94440000010945
+  },
+  {
+    "question": "In the noun-phrase annotation task, why must “of the store” be included when identifying the phrase referring to the four employees?",
+    "gold_id": "2204.07705-93",
+    "vector_pos": 2,
+    "rerank_pos": 1,
+    "embed_ms": 386.9178999993892,
+    "search_ms": 144.3347000003996,
+    "rerank_ms": 407.82489999946847
+  },
+  {
+    "question": "What average rating and conversation duration did the University of Washington’s Sounding Board achieve in the inaugural Alexa Prize finals?",
+    "gold_id": "1812.10757-10",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 405.27669999937643,
+    "search_ms": 135.95019999957003,
+    "rerank_ms": 399.59860000089975
+  },
+  {
+    "question": "What generation hyperparameter settings did the GeDi models use, except for the GeDi-trained detoxification model?",
+    "gold_id": "2009.06367-47",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 474.9965000009979,
+    "search_ms": 192.53769999886572,
+    "rerank_ms": 407.9975000004197
+  },
+  {
+    "question": "How can language models use input prompts to provide an alternative to supervised multi-task learning?",
+    "gold_id": "1909.05858-35",
+    "vector_pos": 2,
+    "rerank_pos": 1,
+    "embed_ms": 466.702499999883,
+    "search_ms": 156.4016000011179,
+    "rerank_ms": 501.3879999987694
+  },
+  {
+    "question": "What cumulative frequencies does Model output – 540B give at the mark intervals ending in 10, 20, 30, 40, and 50 for the 120-student test-mark data?",
+    "gold_id": "2206.14858-134",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 396.6445999994903,
+    "search_ms": 237.6347999997961,
+    "rerank_ms": 435.9005000005709
+  },
+  {
+    "question": "In the Hessian top-subspace overlap analysis of a two-layer fully connected network on MNIST and ResNet-18 on CIFAR-10, at what subspace dimension does the overlap curve show a kink?",
+    "gold_id": "1812.04754-18",
+    "vector_pos": 1,
+    "rerank_pos": 9,
+    "embed_ms": 530.9373999989475,
+    "search_ms": 154.5354000008956,
+    "rerank_ms": 432.05010000019684
+  },
+  {
+    "question": "What validation error did the Snapshot Ensemble with two cycles achieve on ImageNet, compared with the single-model baseline?",
+    "gold_id": "1704.00109-25",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 415.3011999987939,
+    "search_ms": 111.92080000000715,
+    "rerank_ms": 620.984999999564
+  },
+  {
+    "question": "Which GPT-2, GPT-Neo, and T5 model sizes were evaluated in the few-shot inference experiments?",
+    "gold_id": "2109.07684-19",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 442.5853000011557,
+    "search_ms": 109.10609999882581,
+    "rerank_ms": 575.5825999985973
+  },
+  {
+    "question": "In the human preference study, how did LIMA’s outputs compare with Alpaca 65B’s, despite Alpaca 65B being trained on 52 times more data?",
+    "gold_id": "2305.11206-19",
+    "vector_pos": 2,
+    "rerank_pos": 1,
+    "embed_ms": 341.5050000003248,
+    "search_ms": 114.61220000091998,
+    "rerank_ms": 531.7143999982363
+  },
+  {
+    "question": "According to the TrueSkill and appropriateness rankings, which chatbot was highest rated, and how often did it use polite refusals?",
+    "gold_id": "1909.04387-16",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 630.4748000002292,
+    "search_ms": 112.32000000018161,
+    "rerank_ms": 454.4090999988839
+  },
+  {
+    "question": "How does the step-level labeling algorithm use roberta-large-mnli to identify correct steps in negative reasoning paths?",
+    "gold_id": "2206.02336-9",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 896.6268000003765,
+    "search_ms": 703.1905999992887,
+    "rerank_ms": 479.29819999990286
+  },
+  {
+    "question": "How did removing batch normalization’s scale and bias parameters affect the performance of the DCGAN and permutation-invariant GAN models?",
+    "gold_id": "1511.06434-33",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 349.3620999997802,
+    "search_ms": 154.48970000034024,
+    "rerank_ms": 436.020400000416
+  },
+  {
+    "question": "According to the GHG Protocol breakdown of Google’s and Facebook’s data-center carbon footprints, what types of activities account for most emissions?",
+    "gold_id": "2011.02839-33",
+    "vector_pos": 1,
+    "rerank_pos": 2,
+    "embed_ms": 408.66920000007667,
+    "search_ms": 126.26810000074329,
+    "rerank_ms": 2964.9594000002253
+  },
+  {
+    "question": "What is the main goal of subword-unit neural machine translation models for handling rare and unseen words?",
+    "gold_id": "1508.07909-2",
+    "vector_pos": 10,
+    "rerank_pos": 3,
+    "embed_ms": 386.919399999897,
+    "search_ms": 131.8740999995498,
+    "rerank_ms": 4545.996800001376
+  },
+  {
+    "question": "How were sentence-level documents aligned in the web-extracted corpora using LASER?",
+    "gold_id": "2103.12028-9",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 405.04019999934826,
+    "search_ms": 120.10220000047411,
+    "rerank_ms": 409.9681999996392
+  },
+  {
+    "question": "What output does the letter-position concatenation procedure produce for “Alan Mathison Turing”?",
+    "gold_id": "2210.02406-76",
+    "vector_pos": 1,
+    "rerank_pos": 2,
+    "embed_ms": 408.2021000012901,
+    "search_ms": 128.37339999896358,
+    "rerank_ms": 404.627600000822
+  },
+  {
+    "question": "How does the Python f-string prompting approach incorporate test-case inputs into programming problem prompts?",
+    "gold_id": "2203.13474-25",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 407.8098999998474,
+    "search_ms": 123.38180000006105,
+    "rerank_ms": 1037.9802999996173
+  },
+  {
+    "question": "Why does the discussion argue that machine learning research should not be treated as value-neutral?",
+    "gold_id": "2106.15590-2",
+    "vector_pos": 2,
+    "rerank_pos": 2,
+    "embed_ms": 419.8888999999326,
+    "search_ms": 226.49269999965327,
+    "rerank_ms": 437.11810000058904
+  },
+  {
+    "question": "What are the layer count, hidden size, number of attention heads, and total parameters of BERT BASE and BERT LARGE?",
+    "gold_id": "1810.04805-11",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 391.06360000005225,
+    "search_ms": 119.30320000101347,
+    "rerank_ms": 616.9981000002736
+  },
+  {
+    "question": "In the step-by-step arithmetic example about Karen’s trail mix, how many cups of nuts did she add in total?",
+    "gold_id": "2210.03493-86",
+    "vector_pos": 2,
+    "rerank_pos": 1,
+    "embed_ms": 498.51959999978135,
+    "search_ms": 169.15180000069086,
+    "rerank_ms": 741.9410999991669
+  },
+  {
+    "question": "How did interacting with a human-like chatbot affect users’ disclosure of private information compared with interacting with a machine-like chatbot?",
+    "gold_id": "2112.04359-110",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 388.9377000014065,
+    "search_ms": 116.56009999933303,
+    "rerank_ms": 3501.815400000851
+  },
+  {
+    "question": "What top-1 and top-5 accuracy values are listed for SENet?",
+    "gold_id": "1707.07012-26",
+    "vector_pos": null,
+    "rerank_pos": null,
+    "embed_ms": 471.9786000005115,
+    "search_ms": 107.90979999910633,
+    "rerank_ms": 602.9074000016408
+  },
+  {
+    "question": "What test-set accuracy did the tuned+ranked model achieve in Collaborative Storytelling with Large-scale Neural LMs when predicting the continuation selected by a Mechanical Turk participant?",
+    "gold_id": "2011.10208-17",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 403.1008000001748,
+    "search_ms": 152.11190000081842,
+    "rerank_ms": 441.8497999995452
+  },
+  {
+    "question": "What accuracy did GPT-J achieve on the synthetic symbolic manipulation dataset?",
+    "gold_id": "2205.11503-64",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 402.87809999972524,
+    "search_ms": 107.93459999877086,
+    "rerank_ms": 484.9159999994299
+  },
+  {
+    "question": "Why is Task2Vec used to estimate task complexity and forgetting in multi-head continual learning models?",
+    "gold_id": "1908.01091-18",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 361.8046999999933,
+    "search_ms": 111.19789999975183,
+    "rerank_ms": 558.1364000008762
+  },
+  {
+    "question": "What scores did the MoE-64 model with CMR regularization achieve across the reported metrics in Table 16?",
+    "gold_id": "2207.04672-163",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 463.16159999878437,
+    "search_ms": 110.95440000099188,
+    "rerank_ms": 547.839799999565
+  },
+  {
+    "question": "In the two-class Gaussian-mixture setup for softmax regression, what does the learning problem reduce to as the variance σ² approaches zero?",
+    "gold_id": "1812.04754-19",
+    "vector_pos": 2,
+    "rerank_pos": 2,
+    "embed_ms": 501.78349999987404,
+    "search_ms": 108.34739999882004,
+    "rerank_ms": 495.7155000010971
+  },
+  {
+    "question": "Which abilities does the paper’s informal definition of intelligence in artificial systems emphasize?",
+    "gold_id": "2303.12712-325",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 618.2072999999946,
+    "search_ms": 155.61829999933252,
+    "rerank_ms": 414.8612000008143
+  },
+  {
+    "question": "In Autoregressive Trajectory Correction, how does the method choose an admissible environment action from the Planning LM’s candidate actions at each step?",
+    "gold_id": "2201.07207-23",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 385.25839999965683,
+    "search_ms": 104.68050000054063,
+    "rerank_ms": 407.6627999984339
+  },
+  {
+    "question": "What results does Table 9 report for models trained on MNLI with neutral and contradiction merged into a single non-entailment label when evaluated on HANS?",
+    "gold_id": "1902.01007-49",
+    "vector_pos": 10,
+    "rerank_pos": 1,
+    "embed_ms": 385.6550000000425,
+    "search_ms": 128.50559999969846,
+    "rerank_ms": 424.39159999958065
+  },
+  {
+    "question": "What does the GOAL MATRIX observation encode for the agents described in *Open-Ended Learning Leads to Generally Capable Agents*?",
+    "gold_id": "2107.12808-220",
+    "vector_pos": 7,
+    "rerank_pos": 2,
+    "embed_ms": 366.94449999959033,
+    "search_ms": 107.15780000100494,
+    "rerank_ms": 419.77760000008857
+  },
+  {
+    "question": "Which six tasks were used in the zero-shot unseen-tasks evaluation?",
+    "gold_id": "2205.12673-17",
+    "vector_pos": 1,
+    "rerank_pos": 1,
+    "embed_ms": 844.8695999995834,
+    "search_ms": 207.99110000007204,
+    "rerank_ms": 509.8467999996501
+  },
+  {
+    "question": "How does the amount of training data needed scale with language model size, according to the reported findings?",
+    "gold_id": "2001.08361-54",
+    "vector_pos": null,
+    "rerank_pos": null,
+    "embed_ms": 382.8219999995781,
+    "search_ms": 223.51110000090557,
+    "rerank_ms": 519.7344999996858
+  }
+]

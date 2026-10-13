@@ -1,0 +1,9 @@
+# The versions this notebook was run with, on Python 3.10.
+datasets==2.14.5
+pyarrow==20.0.0        # datasets 2.14.5 fails with newer pyarrow
+openai==1.6.1
+pinecone-client==3.1.0
+cohere==4.27
+pandas==2.3.3
+tqdm==4.70.1
+ipykernel
